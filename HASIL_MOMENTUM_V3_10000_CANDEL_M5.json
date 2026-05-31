@@ -1,0 +1,800 @@
+[
+    {
+        "setup_id": "SET1",
+        "index_csv": 6,
+        "time": "2026-05-29 09:45:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": "46.99 pips",
+            "ekor_atas": "18.2%",
+            "ekor_bawah": "10.2%",
+            "reason": "V3 Valid (Body 4.70 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4536.989,
+            "ENTRY_1": 4536.6382,
+            "ENTRY_2": 4534.115988,
+            "SL_UTAMA": 4529.843916,
+            "TP1": 4537.845,
+            "TP2": 4539.47418,
+            "TP3": 4541.574012000001,
+            "TP4": 4543.879000000001,
+            "TP5": 4546.896000000001,
+            "TP6": 4549.913000000001,
+            "TRIGGER_SL1": 4540.1041296,
+            "TRIGGER_SL2": 4541.364028800001,
+            "TRIGGER_SL3": 4543.879000000001,
+            "TRIGGER_SL4": 4546.896000000001,
+            "TRIGGER_SL5": 4549.913000000001,
+            "TRIGGER_SL6": 4553.913000000001,
+            "TRIGGER_TRAILING": 4563.913000000001
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4536.989,
+                "exit_price": 4529.843916,
+                "pips": -71.45,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET1_0_SL_UTAMA"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4536.6382,
+                "exit_price": 4529.843916,
+                "pips": -67.94,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET1_1_SL_UTAMA"
+            },
+            "2": {
+                "status": "CLOSED",
+                "open_price": 4534.115988,
+                "exit_price": 4529.843916,
+                "pips": -42.72,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET1_2_SL_UTAMA"
+            }
+        }
+    },
+    {
+        "setup_id": "SET2",
+        "index_csv": 9,
+        "time": "2026-05-29 10:00:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": "51.0 pips",
+            "ekor_atas": "0.0%",
+            "ekor_bawah": "12.2%",
+            "reason": "V3 Valid (Body 5.10 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4526.111,
+            "ENTRY_1": 4526.6326,
+            "ENTRY_2": 4529.024814,
+            "SL_UTAMA": 4533.076698,
+            "TP1": 4525.488,
+            "TP2": 4523.94279,
+            "TP3": 4521.951186,
+            "TP4": 4519.765,
+            "TP5": 4516.9035,
+            "TP6": 4514.042,
+            "TRIGGER_SL1": 4523.345308800001,
+            "TRIGGER_SL2": 4522.1503464,
+            "TRIGGER_SL3": 4519.765,
+            "TRIGGER_SL4": 4516.9035,
+            "TRIGGER_SL5": 4514.042,
+            "TRIGGER_SL6": 4510.042,
+            "TRIGGER_TRAILING": 4500.042
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4526.111,
+                "exit_price": 4533.076698,
+                "pips": -69.66,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET2_0_SL_UTAMA"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4526.6326,
+                "exit_price": 4533.076698,
+                "pips": -64.44,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET2_1_SL_UTAMA"
+            },
+            "2": {
+                "status": "CLOSED",
+                "open_price": 4529.024814,
+                "exit_price": 4533.076698,
+                "pips": -40.52,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET2_2_SL_UTAMA"
+            }
+        }
+    },
+    {
+        "setup_id": "SET3",
+        "index_csv": 15,
+        "time": "2026-05-29 10:30:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": "82.43 pips",
+            "ekor_atas": "6.1%",
+            "ekor_bawah": "3.3%",
+            "reason": "V3 Valid (Body 8.24 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4538.669,
+            "ENTRY_1": 4537.371,
+            "ENTRY_2": 4533.60064,
+            "SL_UTAMA": 4527.21448,
+            "TP1": 4539.175,
+            "TP2": 4541.6104000000005,
+            "TP3": 4544.749360000001,
+            "TP4": 4548.195000000001,
+            "TP5": 4552.705000000001,
+            "TP6": 4557.215000000001,
+            "TRIGGER_SL1": 4542.552088,
+            "TRIGGER_SL2": 4544.435464000001,
+            "TRIGGER_SL3": 4548.195000000001,
+            "TRIGGER_SL4": 4552.705000000001,
+            "TRIGGER_SL5": 4557.215000000001,
+            "TRIGGER_SL6": 4561.215000000001,
+            "TRIGGER_TRAILING": 4571.215000000001
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4538.669,
+                "exit_price": 4539.175,
+                "pips": 5.06,
+                "sl_level": "SL1",
+                "comment": "M5_SET3_0_SL1"
+            },
+            "1": {
+                "status": "CANCELLED",
+                "open_price": 4537.371,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET3_1_CANCELLED"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4533.60064,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET3_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET4",
+        "index_csv": 32,
+        "time": "2026-05-29 11:55:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": "43.45 pips",
+            "ekor_atas": "16.7%",
+            "ekor_bawah": "4.5%",
+            "reason": "V3 Valid (Body 4.34 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4538.213,
+            "ENTRY_1": 4537.8854,
+            "ENTRY_2": 4535.683376,
+            "SL_UTAMA": 4531.953632000001,
+            "TP1": 4538.939,
+            "TP2": 4540.36136,
+            "TP3": 4542.194624000001,
+            "TP4": 4544.207,
+            "TP5": 4546.841,
+            "TP6": 4549.475,
+            "TRIGGER_SL1": 4540.9113392,
+            "TRIGGER_SL2": 4542.011297600001,
+            "TRIGGER_SL3": 4544.207,
+            "TRIGGER_SL4": 4546.841,
+            "TRIGGER_SL5": 4549.475,
+            "TRIGGER_SL6": 4553.475,
+            "TRIGGER_TRAILING": 4563.475
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4538.213,
+                "exit_price": 4531.953632000001,
+                "pips": -62.59,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET4_0_SL_UTAMA"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4537.8854,
+                "exit_price": 4531.953632000001,
+                "pips": -59.32,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET4_1_SL_UTAMA"
+            },
+            "2": {
+                "status": "CLOSED",
+                "open_price": 4535.683376,
+                "exit_price": 4531.953632000001,
+                "pips": -37.3,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET4_2_SL_UTAMA"
+            }
+        }
+    },
+    {
+        "setup_id": "SET5",
+        "index_csv": 33,
+        "time": "2026-05-29 12:00:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": "87.63 pips",
+            "ekor_atas": "3.1%",
+            "ekor_bawah": "15.8%",
+            "reason": "V3 Valid (Body 8.76 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4529.515,
+            "ENTRY_1": 4530.2132,
+            "ENTRY_2": 4534.567088,
+            "SL_UTAMA": 4541.941616,
+            "TP1": 4528.13,
+            "TP2": 4525.31768,
+            "TP3": 4521.692912,
+            "TP4": 4517.714,
+            "TP5": 4512.505999999999,
+            "TP6": 4507.298,
+            "TRIGGER_SL1": 4524.2302496,
+            "TRIGGER_SL2": 4522.0553888,
+            "TRIGGER_SL3": 4517.714,
+            "TRIGGER_SL4": 4512.505999999999,
+            "TRIGGER_SL5": 4507.298,
+            "TRIGGER_SL6": 4503.298,
+            "TRIGGER_TRAILING": 4493.298
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4529.515,
+                "exit_price": 4525.31768,
+                "pips": 41.97,
+                "sl_level": "SL2",
+                "comment": "M5_SET5_0_SL2"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4530.2132,
+                "exit_price": 4525.31768,
+                "pips": 48.96,
+                "sl_level": "SL2",
+                "comment": "M5_SET5_1_SL2"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4534.567088,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET5_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET6",
+        "index_csv": 57,
+        "time": "2026-05-29 14:00:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": "111.51 pips",
+            "ekor_atas": "13.0%",
+            "ekor_bawah": "14.8%",
+            "reason": "V3 Valid (Body 11.15 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4547.853,
+            "ENTRY_1": 4546.4546,
+            "ENTRY_2": 4540.499354,
+            "SL_UTAMA": 4530.412477999999,
+            "TP1": 4549.304,
+            "TP2": 4553.15069,
+            "TP3": 4558.108646000001,
+            "TP4": 4563.551,
+            "TP5": 4570.674500000001,
+            "TP6": 4577.798000000001,
+            "TRIGGER_SL1": 4554.638076800001,
+            "TRIGGER_SL2": 4557.612850400001,
+            "TRIGGER_SL3": 4563.551,
+            "TRIGGER_SL4": 4570.674500000001,
+            "TRIGGER_SL5": 4577.798000000001,
+            "TRIGGER_SL6": 4581.798000000001,
+            "TRIGGER_TRAILING": 4591.798000000001
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4547.853,
+                "exit_price": 4530.412477999999,
+                "pips": -174.41,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET6_0_SL_UTAMA"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4546.4546,
+                "exit_price": 4530.412477999999,
+                "pips": -160.42,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET6_1_SL_UTAMA"
+            },
+            "2": {
+                "status": "CLOSED",
+                "open_price": 4540.499354,
+                "exit_price": 4530.412477999999,
+                "pips": -100.87,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET6_2_SL_UTAMA"
+            }
+        }
+    },
+    {
+        "setup_id": "SET7",
+        "index_csv": 59,
+        "time": "2026-05-29 14:10:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": "69.62 pips",
+            "ekor_atas": "26.5%",
+            "ekor_bawah": "0.9%",
+            "reason": "V3 Valid (Body 6.96 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4543.905,
+            "ENTRY_1": 4545.6182,
+            "ENTRY_2": 4549.3262780000005,
+            "SL_UTAMA": 4555.606946,
+            "TP1": 4543.844,
+            "TP2": 4541.44883,
+            "TP3": 4538.361722,
+            "TP4": 4534.973,
+            "TP5": 4530.5375,
+            "TP6": 4526.102,
+            "TRIGGER_SL1": 4540.5226976,
+            "TRIGGER_SL2": 4538.6704328,
+            "TRIGGER_SL3": 4534.973,
+            "TRIGGER_SL4": 4530.5375,
+            "TRIGGER_SL5": 4526.102,
+            "TRIGGER_SL6": 4522.102,
+            "TRIGGER_TRAILING": 4512.102
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4543.905,
+                "exit_price": 4541.44883,
+                "pips": 24.56,
+                "sl_level": "SL2",
+                "comment": "M5_SET7_0_SL2"
+            },
+            "1": {
+                "status": "CANCELLED",
+                "open_price": 4545.6182,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET7_1_CANCELLED"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4549.3262780000005,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET7_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET8",
+        "index_csv": 60,
+        "time": "2026-05-29 14:15:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": "59.66 pips",
+            "ekor_atas": "18.7%",
+            "ekor_bawah": "1.8%",
+            "reason": "V3 Valid (Body 5.97 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4537.998,
+            "ENTRY_1": 4539.3266,
+            "ENTRY_2": 4542.333274,
+            "SL_UTAMA": 4547.425918,
+            "TP1": 4537.888,
+            "TP2": 4535.94589,
+            "TP3": 4533.442726,
+            "TP4": 4530.695,
+            "TP5": 4527.0985,
+            "TP6": 4523.5019999999995,
+            "TRIGGER_SL1": 4535.1949408,
+            "TRIGGER_SL2": 4533.6930424,
+            "TRIGGER_SL3": 4530.695,
+            "TRIGGER_SL4": 4527.0985,
+            "TRIGGER_SL5": 4523.5019999999995,
+            "TRIGGER_SL6": 4519.5019999999995,
+            "TRIGGER_TRAILING": 4509.5019999999995
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4537.998,
+                "exit_price": 4535.94589,
+                "pips": 20.52,
+                "sl_level": "SL2",
+                "comment": "M5_SET8_0_SL2"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4539.3266,
+                "exit_price": 4535.94589,
+                "pips": 33.81,
+                "sl_level": "SL2",
+                "comment": "M5_SET8_1_SL2"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4542.333274,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET8_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET9",
+        "index_csv": 64,
+        "time": "2026-05-29 14:35:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": "41.65 pips",
+            "ekor_atas": "15.8%",
+            "ekor_bawah": "26.3%",
+            "reason": "V3 Valid (Body 4.16 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4531.815,
+            "ENTRY_1": 4531.9024,
+            "ENTRY_2": 4534.375706000001,
+            "SL_UTAMA": 4538.564942000001,
+            "TP1": 4530.719,
+            "TP2": 4529.12141,
+            "TP3": 4527.062293999999,
+            "TP4": 4524.802,
+            "TP5": 4521.843499999999,
+            "TP6": 4518.884999999999,
+            "TRIGGER_SL1": 4528.5036752,
+            "TRIGGER_SL2": 4527.268205599999,
+            "TRIGGER_SL3": 4524.802,
+            "TRIGGER_SL4": 4521.843499999999,
+            "TRIGGER_SL5": 4518.884999999999,
+            "TRIGGER_SL6": 4514.884999999999,
+            "TRIGGER_TRAILING": 4504.884999999999
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4531.815,
+                "exit_price": 4538.564942000001,
+                "pips": -67.5,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET9_0_SL_UTAMA"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4531.9024,
+                "exit_price": 4538.564942000001,
+                "pips": -66.63,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET9_1_SL_UTAMA"
+            },
+            "2": {
+                "status": "CLOSED",
+                "open_price": 4534.375706000001,
+                "exit_price": 4538.564942000001,
+                "pips": -41.89,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET9_2_SL_UTAMA"
+            }
+        }
+    },
+    {
+        "setup_id": "SET10",
+        "index_csv": 65,
+        "time": "2026-05-29 14:40:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": "84.8 pips",
+            "ekor_atas": "20.2%",
+            "ekor_bawah": "0.0%",
+            "reason": "V3 Valid (Body 8.48 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4540.235,
+            "ENTRY_1": 4539.907,
+            "ENTRY_2": 4535.64758,
+            "SL_UTAMA": 4528.43306,
+            "TP1": 4541.945,
+            "TP2": 4544.6963,
+            "TP3": 4548.24242,
+            "TP4": 4552.134999999999,
+            "TP5": 4557.23,
+            "TP6": 4562.324999999999,
+            "TRIGGER_SL1": 4545.760136,
+            "TRIGGER_SL2": 4547.8878079999995,
+            "TRIGGER_SL3": 4552.134999999999,
+            "TRIGGER_SL4": 4557.23,
+            "TRIGGER_SL5": 4562.324999999999,
+            "TRIGGER_SL6": 4566.324999999999,
+            "TRIGGER_TRAILING": 4576.324999999999
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4540.235,
+                "exit_price": 4562.324999999999,
+                "pips": 220.9,
+                "sl_level": "SL6",
+                "comment": "M5_SET10_0_SL6"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4539.907,
+                "exit_price": 4562.324999999999,
+                "pips": 224.18,
+                "sl_level": "SL6",
+                "comment": "M5_SET10_1_SL6"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4535.64758,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET10_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET11",
+        "index_csv": 69,
+        "time": "2026-05-29 15:00:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": "141.66 pips",
+            "ekor_atas": "1.2%",
+            "ekor_bawah": "1.1%",
+            "reason": "V3 Valid (Body 14.17 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4578.416,
+            "ENTRY_1": 4575.6824,
+            "ENTRY_2": 4569.624326,
+            "SL_UTAMA": 4559.363281999999,
+            "TP1": 4578.581,
+            "TP2": 4582.494110000001,
+            "TP3": 4587.537674,
+            "TP4": 4593.0740000000005,
+            "TP5": 4600.320500000001,
+            "TP6": 4607.567000000001,
+            "TRIGGER_SL1": 4584.007179200001,
+            "TRIGGER_SL2": 4587.0333176,
+            "TRIGGER_SL3": 4593.0740000000005,
+            "TRIGGER_SL4": 4600.320500000001,
+            "TRIGGER_SL5": 4607.567000000001,
+            "TRIGGER_SL6": 4611.567000000001,
+            "TRIGGER_TRAILING": 4621.567000000001
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4578.416,
+                "exit_price": 4582.494110000001,
+                "pips": 40.78,
+                "sl_level": "SL2",
+                "comment": "M5_SET11_0_SL2"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4575.6824,
+                "exit_price": 4582.494110000001,
+                "pips": 68.12,
+                "sl_level": "SL2",
+                "comment": "M5_SET11_1_SL2"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4569.624326,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET11_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET12",
+        "index_csv": 74,
+        "time": "2026-05-29 15:25:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": "64.34 pips",
+            "ekor_atas": "11.2%",
+            "ekor_bawah": "5.3%",
+            "reason": "V3 Valid (Body 6.43 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4578.22,
+            "ENTRY_1": 4579.3756,
+            "ENTRY_2": 4582.509764,
+            "SL_UTAMA": 4587.818348,
+            "TP1": 4577.876,
+            "TP2": 4575.851540000001,
+            "TP3": 4573.242236,
+            "TP4": 4570.378000000001,
+            "TP5": 4566.629000000001,
+            "TP6": 4562.880000000001,
+            "TRIGGER_SL1": 4575.0687488,
+            "TRIGGER_SL2": 4573.5031664,
+            "TRIGGER_SL3": 4570.378000000001,
+            "TRIGGER_SL4": 4566.629000000001,
+            "TRIGGER_SL5": 4562.880000000001,
+            "TRIGGER_SL6": 4558.880000000001,
+            "TRIGGER_TRAILING": 4548.880000000001
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4578.22,
+                "exit_price": 4575.851540000001,
+                "pips": 23.68,
+                "sl_level": "SL2",
+                "comment": "M5_SET12_0_SL2"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4579.3756,
+                "exit_price": 4575.851540000001,
+                "pips": 35.24,
+                "sl_level": "SL2",
+                "comment": "M5_SET12_1_SL2"
+            },
+            "2": {
+                "status": "CLOSED",
+                "open_price": 4582.509764,
+                "exit_price": 4575.851540000001,
+                "pips": 66.58,
+                "sl_level": "SL2",
+                "comment": "M5_SET12_2_SL2"
+            }
+        }
+    },
+    {
+        "setup_id": "SET13",
+        "index_csv": 87,
+        "time": "2026-05-29 16:30:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": "59.67 pips",
+            "ekor_atas": "18.1%",
+            "ekor_bawah": "22.1%",
+            "reason": "V3 Valid (Body 5.97 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4569.03,
+            "ENTRY_1": 4568.4394,
+            "ENTRY_2": 4564.941576,
+            "SL_UTAMA": 4559.017032,
+            "TP1": 4570.113,
+            "TP2": 4572.37236,
+            "TP3": 4575.284424,
+            "TP4": 4578.481000000001,
+            "TP5": 4582.665000000001,
+            "TP6": 4586.849000000001,
+            "TRIGGER_SL1": 4573.2459792,
+            "TRIGGER_SL2": 4574.9932176,
+            "TRIGGER_SL3": 4578.481000000001,
+            "TRIGGER_SL4": 4582.665000000001,
+            "TRIGGER_SL5": 4586.849000000001,
+            "TRIGGER_SL6": 4590.849000000001,
+            "TRIGGER_TRAILING": 4600.849000000001
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4569.03,
+                "exit_price": 4570.113,
+                "pips": 10.83,
+                "sl_level": "SL1",
+                "comment": "M5_SET13_0_SL1"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4568.4394,
+                "exit_price": 4570.113,
+                "pips": 16.74,
+                "sl_level": "SL1",
+                "comment": "M5_SET13_1_SL1"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4564.941576,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET13_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET14",
+        "index_csv": 90,
+        "time": "2026-05-29 16:45:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": "49.48 pips",
+            "ekor_atas": "0.0%",
+            "ekor_bawah": "6.0%",
+            "reason": "V3 Valid (Body 4.95 >= 4.0)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4564.654,
+            "ENTRY_1": 4565.4076000000005,
+            "ENTRY_2": 4567.599174,
+            "SL_UTAMA": 4571.311218,
+            "TP1": 4564.359,
+            "TP2": 4562.94339,
+            "TP3": 4561.118826000001,
+            "TP4": 4559.116000000001,
+            "TP5": 4556.494500000001,
+            "TP6": 4553.873000000001,
+            "TRIGGER_SL1": 4562.396020800001,
+            "TRIGGER_SL2": 4561.301282400001,
+            "TRIGGER_SL3": 4559.116000000001,
+            "TRIGGER_SL4": 4556.494500000001,
+            "TRIGGER_SL5": 4553.873000000001,
+            "TRIGGER_SL6": 4549.873000000001,
+            "TRIGGER_TRAILING": 4539.873000000001
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4564.654,
+                "exit_price": 4562.94339,
+                "pips": 17.11,
+                "sl_level": "SL2",
+                "comment": "M5_SET14_0_SL2"
+            },
+            "1": {
+                "status": "CLOSED",
+                "open_price": 4565.4076000000005,
+                "exit_price": 4562.94339,
+                "pips": 24.64,
+                "sl_level": "SL2",
+                "comment": "M5_SET14_1_SL2"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4567.599174,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "sl_level": "SL_UTAMA",
+                "comment": "M5_SET14_2_CANCELLED"
+            }
+        }
+    }
+]
