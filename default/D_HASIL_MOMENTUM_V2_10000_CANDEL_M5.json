@@ -1,0 +1,389 @@
+[
+    {
+        "setup_id": "SET1",
+        "index_csv": 6,
+        "time": "2026-05-29 09:45:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": 4.698999999999614,
+            "reason": "V2 Valid (Body 4.70 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4536.989,
+            "ENTRY_1": 4536.6382,
+            "ENTRY_2": 4534.115988,
+            "TP_FIX": 4539.47418,
+            "SL_FIX": 4529.843916,
+            "FIB_RANGE": 6.03400000000056,
+            "ANCHOR_LOW": 4531.811,
+            "ANCHOR_HIGH": 4537.845
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4536.989,
+                "exit_price": 4539.47418,
+                "pips": 24.851800000005824,
+                "comment": "M5_SET1_0_TP_FIX"
+            },
+            "1": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4536.6382,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET1_1_FORCE_CLOSE"
+            },
+            "2": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4534.115988,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET1_2_FORCE_CLOSE"
+            }
+        }
+    },
+    {
+        "setup_id": "SET2",
+        "index_csv": 9,
+        "time": "2026-05-29 10:00:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": 5.100000000000364,
+            "reason": "V2 Valid (Body 5.10 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4526.111,
+            "ENTRY_1": 4526.6326,
+            "ENTRY_2": 4529.024814,
+            "TP_FIX": 4523.94279,
+            "SL_FIX": 4533.076698,
+            "FIB_RANGE": 5.722999999999956,
+            "ANCHOR_HIGH": 4531.211,
+            "ANCHOR_LOW": 4525.488
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4526.111,
+                "exit_price": 4533.076698,
+                "pips": -69.65697999999975,
+                "comment": "M5_SET2_0_SL_FIX"
+            },
+            "1": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4526.6326,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET2_1_FORCE_CLOSE"
+            },
+            "2": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4529.024814,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET2_2_FORCE_CLOSE"
+            }
+        }
+    },
+    {
+        "setup_id": "SET3",
+        "index_csv": 15,
+        "time": "2026-05-29 10:30:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": 8.242999999999483,
+            "reason": "V2 Valid (Body 8.24 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4538.669,
+            "ENTRY_1": 4537.371,
+            "ENTRY_2": 4533.60064,
+            "TP_FIX": 4541.6104000000005,
+            "SL_FIX": 4527.21448,
+            "FIB_RANGE": 9.020000000000437,
+            "ANCHOR_LOW": 4530.155,
+            "ANCHOR_HIGH": 4539.175
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4538.669,
+                "exit_price": 4541.6104000000005,
+                "pips": 29.414000000006126,
+                "comment": "M5_SET3_0_TP_FIX"
+            },
+            "1": {
+                "status": "CANCELLED",
+                "open_price": 4537.371,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET3_1_CANCELLED"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4533.60064,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET3_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET4",
+        "index_csv": 32,
+        "time": "2026-05-29 11:55:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": 4.344999999999345,
+            "reason": "V2 Valid (Body 4.34 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4538.213,
+            "ENTRY_1": 4537.8854,
+            "ENTRY_2": 4535.683376,
+            "TP_FIX": 4540.36136,
+            "SL_FIX": 4531.953632000001,
+            "FIB_RANGE": 5.268000000000029,
+            "ANCHOR_LOW": 4533.671,
+            "ANCHOR_HIGH": 4538.939
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4538.213,
+                "exit_price": 4531.953632000001,
+                "pips": -62.593679999990854,
+                "comment": "M5_SET4_0_SL_FIX"
+            },
+            "1": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4537.8854,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET4_1_FORCE_CLOSE"
+            },
+            "2": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4535.683376,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET4_2_FORCE_CLOSE"
+            }
+        }
+    },
+    {
+        "setup_id": "SET5",
+        "index_csv": 33,
+        "time": "2026-05-29 12:00:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": 8.76299999999992,
+            "reason": "V2 Valid (Body 8.76 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4529.515,
+            "ENTRY_1": 4530.2132,
+            "ENTRY_2": 4534.567088,
+            "TP_FIX": 4525.31768,
+            "SL_FIX": 4541.941616,
+            "FIB_RANGE": 10.416000000000167,
+            "ANCHOR_HIGH": 4538.546,
+            "ANCHOR_LOW": 4528.13
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4529.515,
+                "exit_price": 4525.31768,
+                "pips": 41.97320000000218,
+                "comment": "M5_SET5_0_TP_FIX"
+            },
+            "1": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4530.2132,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET5_1_FORCE_CLOSE"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4534.567088,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET5_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET6",
+        "index_csv": 64,
+        "time": "2026-05-29 14:35:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": 4.164999999999964,
+            "reason": "V2 Valid (Body 4.16 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4531.815,
+            "ENTRY_1": 4531.9024,
+            "ENTRY_2": 4534.375706000001,
+            "TP_FIX": 4529.12141,
+            "SL_FIX": 4538.564942000001,
+            "FIB_RANGE": 5.917000000000371,
+            "ANCHOR_HIGH": 4536.636,
+            "ANCHOR_LOW": 4530.719
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4531.815,
+                "exit_price": 4538.564942000001,
+                "pips": -67.49942000001283,
+                "comment": "M5_SET6_0_SL_FIX"
+            },
+            "1": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4531.9024,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET6_1_FORCE_CLOSE"
+            },
+            "2": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4534.375706000001,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET6_2_FORCE_CLOSE"
+            }
+        }
+    },
+    {
+        "setup_id": "SET7",
+        "index_csv": 65,
+        "time": "2026-05-29 14:40:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": 8.479999999999563,
+            "reason": "V2 Valid (Body 8.48 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4540.235,
+            "ENTRY_1": 4539.907,
+            "ENTRY_2": 4535.64758,
+            "TP_FIX": 4544.6963,
+            "SL_FIX": 4528.43306,
+            "FIB_RANGE": 10.1899999999996,
+            "ANCHOR_LOW": 4531.755,
+            "ANCHOR_HIGH": 4541.945
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4540.235,
+                "exit_price": 4544.6963,
+                "pips": 44.612999999999374,
+                "comment": "M5_SET7_0_TP_FIX"
+            },
+            "1": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4539.907,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET7_1_FORCE_CLOSE"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4535.64758,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET7_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET8",
+        "index_csv": 69,
+        "time": "2026-05-29 15:00:00",
+        "direction": "BUY",
+        "momentum_data": {
+            "body": 14.166000000000167,
+            "reason": "V2 Valid (Body 14.17 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4578.416,
+            "ENTRY_1": 4575.6824,
+            "ENTRY_2": 4569.624326,
+            "TP_FIX": 4582.494110000001,
+            "SL_FIX": 4559.363281999999,
+            "FIB_RANGE": 14.493000000000393,
+            "ANCHOR_LOW": 4564.088,
+            "ANCHOR_HIGH": 4578.581
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4578.416,
+                "exit_price": 4582.494110000001,
+                "pips": 40.78110000000379,
+                "comment": "M5_SET8_0_TP_FIX"
+            },
+            "1": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4575.6824,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET8_1_FORCE_CLOSE"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4569.624326,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET8_2_CANCELLED"
+            }
+        }
+    },
+    {
+        "setup_id": "SET9",
+        "index_csv": 90,
+        "time": "2026-05-29 16:45:00",
+        "direction": "SELL",
+        "momentum_data": {
+            "body": 4.947999999999411,
+            "reason": "V2 Valid (Body 4.95 >= 3.5)"
+        },
+        "fibonacci_levels": {
+            "ENTRY_0": 4564.654,
+            "ENTRY_1": 4565.4076000000005,
+            "ENTRY_2": 4567.599174,
+            "TP_FIX": 4562.94339,
+            "SL_FIX": 4571.311218,
+            "FIB_RANGE": 5.242999999999483,
+            "ANCHOR_HIGH": 4569.602,
+            "ANCHOR_LOW": 4564.359
+        },
+        "hasil_simulasi": {
+            "0": {
+                "status": "CLOSED",
+                "open_price": 4564.654,
+                "exit_price": 4562.94339,
+                "pips": 17.10610000000088,
+                "comment": "M5_SET9_0_TP_FIX"
+            },
+            "1": {
+                "status": "FORCE_CLOSE",
+                "open_price": 4565.4076000000005,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET9_1_FORCE_CLOSE"
+            },
+            "2": {
+                "status": "CANCELLED",
+                "open_price": 4567.599174,
+                "exit_price": 0.0,
+                "pips": 0.0,
+                "comment": "M5_SET9_2_CANCELLED"
+            }
+        }
+    }
+]
